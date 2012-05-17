@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4073
+
+color highlights for radiologist's reading job
+recommended color scheme  
+  --> source $VIMRUNTIME/colors/murphy.vim
